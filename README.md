@@ -1,6 +1,6 @@
-<h1 align="center">SMS BOMBING TOOLS</h1>
+<h1 align="center">SMS BOMBING TOOLS💣</h1>
 
-# about this tools💣
+# about this tools
 
 <p align="center">
   <b>This is a simple and powerful   Bd number SMS bombing tool developed by Mr. Shakil Jack. It allows you to send unlimited SMS to any number using public APIs, demonstrating how OTP systems work in real-world services.</b>
@@ -20,8 +20,7 @@
 ### ✅ For **Termux**:
 
 ```bash
-apt update
-apt upgrade
+apt update && apt upgrade
 apt install python
 pip install requests
 apt install git

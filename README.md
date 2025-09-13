@@ -1,9 +1,9 @@
 <h1 align="center">SMS BOMBING TOOLS</h1>
 
-# about this tools
+# about this tools💣
 
 <p align="center">
-  <b>This is a simple and powerful SMS bombing tool developed by Mr. Shakil Jack. It allows you to send unlimited SMS to any number using public APIs, demonstrating how OTP systems work in real-world services.</b>
+  <b>This is a simple and powerful   Bd number SMS bombing tool developed by Mr. Shakil Jack. It allows you to send unlimited SMS to any number using public APIs, demonstrating how OTP systems work in real-world services.</b>
 </p>
 
 <p align="center">

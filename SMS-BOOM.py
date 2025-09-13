@@ -74,7 +74,7 @@ data = {
 def send_request(i):
     try:
         response = requests.post(url, headers=headers, cookies=cookies, data=data)
-        print(f"\033[1;32m[{i + 1}] SMS Sent...Done✔️ → Only use educational purpose:\033[0m")  
+        print(f"\033[1;32m[{i + 1}] SMS Sent...Done✔️ → Only use educational purpose🎉\033[0m")  
     except Exception as e:
         print(f"\033[1;31m[{i + 1}] Error: {e}\033[0m")  
 with ThreadPoolExecutor(max_workers=50) as executor:

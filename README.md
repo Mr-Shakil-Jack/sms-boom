@@ -1,4 +1,4 @@
-<h1 align="center">SMS BOMBING TOOLS💣</h1>
+<h1 align="center">SMS BOOMING TOOLS💣</h1>
 
 # about this tools
 
@@ -24,14 +24,16 @@ apt update && apt upgrade
 apt install python
 pip install requests
 apt install git
-git clone https://github.com/Mr-Shakil-Jack/sms-boom.git
-cd sms-boom
-python SMS-BOOM.py
+git clone https://github.com/Mr-Shakil-Jack/sms-booming.git
+cd sms-booming
+python sms-booming.py
 ```
 
 # Run this tools 
 ```bash
-python SMS-BOOM.py
+
+cd sms-booming 
+python sms-booming.py
 ```
 
 💻 For Linux (Ubuntu/Kali/Debian etc):
@@ -40,18 +42,19 @@ sudo apt update
 sudo apt install python3
 pip3 install requests
 apt install git
-git clone https://github.com/Mr-Shakil-Jack/sms-boom.git
-cd sms-boom
-python3 SMS-BOOM.py
+git clone https://github.com/Mr-Shakil-Jack/sms-booming.git
+cd sms-booming
+python3 sms-booming.py
 ```
 
 
 
 
  Usage✔️
-Enter target Phone Number : ➤ +8801********** & Enter select your SMS limit & Enter SMS send.Done
- 
+(1) choice ➤1Enter target Phone Number : ➤ +8801********** & Enter select your SMS limit & Enter SMS send.Done
 
+(2) choice option ➤2 join ourTelegram group   
+(3) choice option ➤3 visit our Facebook profile  
 
 
 ## my official website ##

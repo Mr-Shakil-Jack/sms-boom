@@ -51,7 +51,7 @@ python3 sms-booming.py
 
 
  Usage✔️
-(1) choice ➤1Enter target Phone Number : ➤ +8801********** & Enter select your SMS limit & Enter SMS send.Done
+(1) choice ➤1 Enter target Phone Number : ➤ +8801********** & Enter select your SMS limit & Enter SMS send.Done
 
 (2) choice option ➤2 join ourTelegram group   
 (3) choice option ➤3 visit our Facebook profile  
